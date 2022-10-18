@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React App To fetch weather conditions of different countries from weather api 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
